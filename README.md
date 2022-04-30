@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
-Html,Css,Javascript
+# Tic-Tac-Toe using Html,Css,Javascript
